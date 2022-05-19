@@ -1,3 +1,4 @@
+package myservice;
 public class BonusService {
 
     public long calculate(long amount, boolean registered) {
